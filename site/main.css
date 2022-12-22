@@ -1,3 +1,9 @@
+body {
+    background-color: rgb(231, 202, 174);
+  }
+  
+
+
 .custom-shape-divider-bottom-1671724336 {
     position: absolute;
     bottom: 0;
@@ -16,5 +22,5 @@
 }
 
 .custom-shape-divider-bottom-1671724336 .shape-fill {
-    fill: #4C4181;
+    fill: #0a4575;
 }
